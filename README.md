@@ -1,6 +1,6 @@
-# Final Project Instructions
+# AI for Healthcare Nanodegree program - Udacity
+## Project 2
 
-This file contains background information and instructions for the final project.
 
 ## Quantifying Alzheimer's Disease Progression Through Automated Measurement of Hippocampal Volume
 
